@@ -1,0 +1,20 @@
+.nablink  a {
+    text-decoration: none;
+    margin: 30px;
+    font-size: 25px;
+    color: gold;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid;
+}
+
+.nablink a:hover {
+    background: lightsalmon;
+    color: white;
+}
+
+.nablink {
+    margin: 50px 900px 100px 0px;
+    
+}

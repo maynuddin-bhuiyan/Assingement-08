@@ -1,0 +1,16 @@
+.Friends{
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 200px;
+    margin-left: 10px;
+}
+
+
+
+.Friend{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    margin-left: -30px;
+}
